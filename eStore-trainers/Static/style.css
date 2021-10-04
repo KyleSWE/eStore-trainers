@@ -1,0 +1,26 @@
+.carousel-item{
+    height: 700px;
+    background: #777;
+    color: black;
+    position: relative;
+}
+.panel{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.headline{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 10%;
+    padding: 50px;
+    color: white;
+}
+.box{
+    margin-left: 10%;
+}
+
+.box2{
+    margin-left: 20%;
+}
